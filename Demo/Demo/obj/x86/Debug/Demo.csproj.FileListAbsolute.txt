@@ -1,0 +1,10 @@
+/Users/shalvigupta/Projects/Demo/Demo/bin/Debug/Demo.exe
+/Users/shalvigupta/Projects/Demo/Demo/bin/Debug/Demo.pdb
+/Users/shalvigupta/Projects/Demo/Demo/obj/x86/Debug/Demo.csproj.CoreCompileInputs.cache
+/Users/shalvigupta/Projects/Demo/Demo/obj/x86/Debug/Demo.exe
+/Users/shalvigupta/Projects/Demo/Demo/obj/x86/Debug/Demo.pdb
+/Users/shalvigupta/Projects/Demo/Demo/bin/Debug/nunit.framework.dll
+/Users/shalvigupta/Projects/Demo/Demo/bin/Debug/nunit.framework.pdb
+/Users/shalvigupta/Projects/Demo/Demo/bin/Debug/nunit.framework.xml
+/Users/shalvigupta/Projects/Demo/Demo/obj/x86/Debug/Demo.csprojAssemblyReference.cache
+/Users/shalvigupta/Projects/Demo/Demo/obj/x86/Debug/Demo.csproj.CopyComplete
